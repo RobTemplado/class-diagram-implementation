@@ -141,8 +141,7 @@ int main() {
         Product("ABCMAX", "AirPodsMax", "First Generation of AirPodsMax ", 30000.00),
     };
 
-    // Create a customer
-    Customer customer(1, "John Doe", "johndoe@example.com", "123 Main St");
+    Customer customer(1, "Juan Dela Cruz", "juandelacruz@example.com", "Poblacion 1 ");
 
     int choice;
     do {
